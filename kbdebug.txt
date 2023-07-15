@@ -1,0 +1,1104 @@
+2022-10-01 02:53:54 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:53:54 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f8a2e0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283eacec0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; -177825861/NO/5.000000
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eacec0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] clearAcquiringFocusFlags sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:53:54 +0000: Debug: [_UIKeyboardArbiter] Detaching [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eacec0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] <FBSCAContextSceneLayer: 0x283e722e0; contextID: 0xf56697bb (4117141435); alignment: scene>
+2022-10-01 02:53:54 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:53:54 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eacec0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active NO [wants NO]; suppression 0; iav 66.333333; on screen NO; isAcquiringFocus: NO>] signalKeyboardChanged:onCompletion:: <<<_UIKeyboardChangedInformation: 0x2805edad0>; animation fence <BKSAnimationFenceHandle:0x283cf26d0 -> <CAFenceHandle:0x2816745b0 name=99e fence=24300000594 usable=YES>>; position {{0, 0}, {428, 243}}; animated YES; on screen YES; tracking NO; local NO, dock state: _UIKeyboardUIPositionUnknown>; source canvas com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED; source display Main; source bundle com.apple.mobilesafari; host bundle (null); animation fence <BKSAnimationFenceHandle:0x283cf26d0 -> <CAFenceHandle:0x2816745b0 name=99e fence=24300000594 usable=YES>>; position {{0, 0}, {428, 243}} (with IAV {{0, 0}, {428, 309.33333333333331}}); on screen YES; intersectable YES; snapshot YES>
+2022-10-01 02:53:54 +0000: Debug: [_UIKeyboardArbiter] _activeInputDestinationHandle is now {public}@; information: {public}@
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=2)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=2)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=2)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eacec0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active NO [wants NO]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=2)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eacec0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active NO [wants NO]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; -177825861/YES/5.000000
+2022-10-01 02:53:54 +0000: Debug: [_UIKeyboardArbiter] Attaching [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active NO [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] <FBSCAContextSceneLayer: 0x283e722e0; contextID: 0xf56697bb (4117141435); alignment: scene>
+2022-10-01 02:53:54 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:53:54 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:53:54 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to <UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED > level 5.000000
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] signalKeyboardChanged:onCompletion:: <<<_UIKeyboardChangedInformation: 0x2805a0dd0>; animation fence <BKSAnimationFenceHandle:0x283cc4390 -> <CAFenceHandle:0x2816db560 name=9a1 fence=24300000594 usable=YES>>; position {{0, 0}, {428, 288}}; animated YES; on screen YES; tracking NO; local NO, dock state: _UIKeyboardUIPositionUnknown>; source canvas com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED; source display Main; source bundle com.apple.mobilesafari; host bundle (null); animation fence <BKSAnimationFenceHandle:0x283cc4390 -> <CAFenceHandle:0x2816db560 name=9a1 fence=24300000594 usable=YES>>; position {{0, 0}, {428, 288}} (with IAV {{0, 0}, {428, 354.33333333333331}}); on screen YES; intersectable YES; snapshot YES>
+2022-10-01 02:53:54 +0000: Debug: [_UIKeyboardArbiter] _activeInputDestinationHandle is now {public}@; information: {public}@
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=3)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=3)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=4)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=2)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=4)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] requested process assertion (count=2)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=2)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=3)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=2)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=3)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=2)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eacec0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active NO [wants NO]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=1)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283f9acc0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; -177825861/YES/5.000000
+2022-10-01 02:53:54 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to <UIKBArbiterClientFocusContext: 0x283f9acc0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED > level 5.000000
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f9acc0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] released process assertion (count=1)
+2022-10-01 02:53:54 +0000:
+	<_UIKeyboardArbiterClientHandle: 0x2809c75a0; PID 869: com.apple.GradientPoster.GradientPosterExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809b1760; PID 878: com.apple.PassbookUIService <<UIKBArbiterClientFocusContext: 0x283e399e0 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809e1290; PID 1508: com.apple.corelocation.CoreLocationVanillaWhenInUseAuthPromptPlugin <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809ca1b0; PID 1521: com.apple.mobileslideshow.photo-picker <<UIKBArbiterClientFocusContext: 0x2839a1380 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809d72e0; PID 1534: com.apple.BusinessChatViewService <<UIKBArbiterClientFocusContext: 0x283e06880 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809c5b80; PID 1551: com.macrecon.Sidefari.ModalExtension <<UIKBArbiterClientFocusContext: 0x28381c0e0 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28099fe90; PID 1558: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809825d0; PID 1569: com.apple.MusicUIService <<UIKBArbiterClientFocusContext: 0x283991a20 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28098fc80; PID 1598: com.apple.RemoteiCloudQuotaUI <<UIKBArbiterClientFocusContext: 0x2839c3000 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809d9290; PID 1615: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809add90; PID 1758: com.apple.AuthKitUI.AKLocationSignInAlert <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809cae10; PID 1759: com.apple.AuthKitUI.AKSecondFactorAlert <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiter: 0x280781f80; scene data omitted;
+disabler = (null);
+lastEventSource = 0;
+current state = <<<_UIKeyboardChangedInformation: 0x2805ed6c0>; animation fence (null); position {{0, 0}, {428, 243}}; animated YES; on screen YES; tracking NO; local NO, dock state: _UIKeyboardUIPositionUnknown>; source canvas com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED; source display Main; source bundle com.apple.mobilesafari; host bundle (null); animation fence (null); position {{0, 0}, {428, 243}} (with IAV same); on screen YES; intersectable YES; snapshot YES>;
+active handle = <_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>;
+handles = (
+    "<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(\n)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c75a0; PID 869: com.apple.GradientPoster.GradientPosterExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809b1760; PID 878: com.apple.PassbookUIService <<UIKBArbiterClientFocusContext: 0x283e399e0 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809e1290; PID 1508: com.apple.corelocation.CoreLocationVanillaWhenInUseAuthPromptPlugin <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809ca1b0; PID 1521: com.apple.mobileslideshow.photo-picker <<UIKBArbiterClientFocusContext: 0x2839a1380 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809d72e0; PID 1534: com.apple.BusinessChatViewService <<UIKBArbiterClientFocusContext: 0x283e06880 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c5b80; PID 1551: com.macrecon.Sidefari.ModalExtension <<UIKBArbiterClientFocusContext: 0x28381c0e0 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28099fe90; PID 1558: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809825d0; PID 1569: com.apple.MusicUIService <<UIKBArbiterClientFocusContext: 0x283991a20 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28098fc80; PID 1598: com.apple.RemoteiCloudQuotaUI <<UIKBArbiterClientFocusContext: 0x2839c3000 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809d9290; PID 1615: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(\n)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809add90; PID 1758: com.apple.AuthKitUI.AKLocationSignInAlert <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809cae10; PID 1759: com.apple.AuthKitUI.AKSecondFactorAlert <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>"
+)>:
+	 -> State: Inactive  
+	<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 Special: druid
+		 FocusRequested: 0
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 FocusRequested: 0
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 FocusRequested: 0
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 inputViews ? inputViews->_inputView : nil: _UIRemoteKeyboardPlaceholderView
+		 FocusRequested: 0
+		 automaticAppearance: en YES / int YES
+		 keyWindow: SBMainSwitcherWindow
+		 keyWindowSceneSettings.interfaceOrientation: 1
+		 keyWindow.interfaceOrientation: 1
+		 LastActivated: 0
+		 keyWindow.frame: {{0, 0}, {428, 926}}
+		 placementEffects: UIInputViewSetPlacementOnScreen
+		 currentKeyboard: small-letters-small-display
+		 inputViews ? inputViews->_inputViewController : nil: UICompatibilityInputViewController
+	<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eacec0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active NO [wants NO]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>:
+	 -> State: Active  
+		 placementEffects: UIInputViewSetPlacementOnScreenWithAccessory
+		 keyWindowFirstResponder: WKContentView
+		 keyWindowFirstResponder.inputAccessoryView: SFWebFormAccessoryViewWrapper
+		 inputViews ? inputViews->_inputAccessoryView : nil: SFWebFormAccessoryViewWrapper
+		 keyWindow: MobileSafariWindow
+		 keyboardResponder: WKContentView
+		 keyWindowFirstResponderRequiresKeyboard: 1
+		 currentKeyboard: capital-letters
+		 inputViews ? inputViews->_inputView : nil: _UIKBCompatInputView
+		 keyboardWindow.isHidden: 0
+		 keyWindowSceneSettings.interfaceOrientation: 1
+		 keyboardResponderRequiresKeyboard: 1
+		 UIApp.interfaceOrientation: 1
+		 keyboardWindow.interfaceOrientation: 1
+		 inputViews ? inputViews->_inputViewController : nil: UICompatibilityInputViewController
+		 inputViews ? inputViews->_accessoryViewController : nil: UICompatibilityInputViewController
+		 keyboardWindow.frame: {{0, 0}, {428, 926}}
+		 keyboardResponder.inputAccessoryView: SFWebFormAccessoryViewWrapper
+		 keyWindow.frame: {{0, 0}, {428, 926}}
+		 inputViews ? inputViews->_assistantViewController : nil: UISystemInputAssistantViewController
+		 inputViews.keyboard: UIKeyboardAutomatic
+		 keyWindow.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 inputViews ? inputViews->_inputAssistantView : nil: TUISystemInputAssistantView
+		 FocusRequested: 1
+		 LastActivated: 0
+		 placementKeyboard: UIInputViewSetPlacementOnScreenWithAccessory
+2022-10-01 02:53:54 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f9acc0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:54 +0000:
+	<_UIKeyboardArbiterClientHandle: 0x2809c75a0; PID 869: com.apple.GradientPoster.GradientPosterExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809b1760; PID 878: com.apple.PassbookUIService <<UIKBArbiterClientFocusContext: 0x283e399e0 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809e1290; PID 1508: com.apple.corelocation.CoreLocationVanillaWhenInUseAuthPromptPlugin <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809ca1b0; PID 1521: com.apple.mobileslideshow.photo-picker <<UIKBArbiterClientFocusContext: 0x2839a1380 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809d72e0; PID 1534: com.apple.BusinessChatViewService <<UIKBArbiterClientFocusContext: 0x283e06880 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809c5b80; PID 1551: com.macrecon.Sidefari.ModalExtension <<UIKBArbiterClientFocusContext: 0x28381c0e0 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28099fe90; PID 1558: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809825d0; PID 1569: com.apple.MusicUIService <<UIKBArbiterClientFocusContext: 0x283991a20 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28098fc80; PID 1598: com.apple.RemoteiCloudQuotaUI <<UIKBArbiterClientFocusContext: 0x2839c3000 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809d9290; PID 1615: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809add90; PID 1758: com.apple.AuthKitUI.AKLocationSignInAlert <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809cae10; PID 1759: com.apple.AuthKitUI.AKSecondFactorAlert <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 FocusRequested: 0
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 Special: druid
+		 FocusRequested: 0
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 FocusRequested: 0
+		 LastActivated: 0
+	<_UIKeyboardArbiter: 0x280781f80; scene data omitted;
+disabler = (null);
+lastEventSource = 0;
+current state = <<<_UIKeyboardChangedInformation: 0x2805a39b0>; animation fence (null); position {{0, 0}, {428, 288}}; animated YES; on screen YES; tracking NO; local NO, dock state: _UIKeyboardUIPositionUnknown>; source canvas com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED; source display Main; source bundle com.apple.mobilesafari; host bundle (null); animation fence (null); position {{0, 0}, {428, 288}} (with IAV same); on screen YES; intersectable YES; snapshot YES>;
+active handle = <_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>;
+handles = (
+    "<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(\n)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c75a0; PID 869: com.apple.GradientPoster.GradientPosterExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809b1760; PID 878: com.apple.PassbookUIService <<UIKBArbiterClientFocusContext: 0x283e399e0 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809e1290; PID 1508: com.apple.corelocation.CoreLocationVanillaWhenInUseAuthPromptPlugin <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809ca1b0; PID 1521: com.apple.mobileslideshow.photo-picker <<UIKBArbiterClientFocusContext: 0x2839a1380 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809d72e0; PID 1534: com.apple.BusinessChatViewService <<UIKBArbiterClientFocusContext: 0x283e06880 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c5b80; PID 1551: com.macrecon.Sidefari.ModalExtension <<UIKBArbiterClientFocusContext: 0x28381c0e0 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28099fe90; PID 1558: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809825d0; PID 1569: com.apple.MusicUIService <<UIKBArbiterClientFocusContext: 0x283991a20 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28098fc80; PID 1598: com.apple.RemoteiCloudQuotaUI <<UIKBArbiterClientFocusContext: 0x2839c3000 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809d9290; PID 1615: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(\n)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809add90; PID 1758: com.apple.AuthKitUI.AKLocationSignInAlert <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809cae10; PID 1759: com.apple.AuthKitUI.AKSecondFactorAlert <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>"
+)>:
+	 -> State: Inactive  
+	<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 inputViews ? inputViews->_inputView : nil: _UIRemoteKeyboardPlaceholderView
+		 FocusRequested: 0
+		 automaticAppearance: en YES / int YES
+		 keyWindow: SBMainSwitcherWindow
+		 keyWindowSceneSettings.interfaceOrientation: 1
+		 keyWindow.interfaceOrientation: 1
+		 LastActivated: 0
+		 keyWindow.frame: {{0, 0}, {428, 926}}
+		 placementEffects: UIInputViewSetPlacementOnScreen
+		 currentKeyboard: small-letters-small-display
+		 inputViews ? inputViews->_inputViewController : nil: UICompatibilityInputViewController
+	<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eac580; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>:
+	 -> State: Active  
+		 placementEffects: UIInputViewSetPlacementOnScreenWithAccessory
+		 keyWindowFirstResponder: WKContentView
+		 keyWindowFirstResponder.inputAccessoryView: SFWebFormAccessoryViewWrapper
+		 inputViews ? inputViews->_inputAccessoryView : nil: SFWebFormAccessoryViewWrapper
+		 keyWindow: MobileSafariWindow
+		 keyboardResponder: WKContentView
+		 keyWindowFirstResponderRequiresKeyboard: 1
+		 currentKeyboard: capital-letters
+		 inputViews ? inputViews->_inputView : nil: _UIKBCompatInputView
+		 keyboardWindow.isHidden: 0
+		 keyWindowSceneSettings.interfaceOrientation: 1
+		 keyboardResponderRequiresKeyboard: 1
+		 UIApp.interfaceOrientation: 1
+		 keyboardWindow.interfaceOrientation: 1
+		 inputViews ? inputViews->_inputViewController : nil: UICompatibilityInputViewController
+		 inputViews ? inputViews->_accessoryViewController : nil: UICompatibilityInputViewController
+		 keyboardWindow.frame: {{0, 0}, {428, 926}}
+		 keyboardResponder.inputAccessoryView: SFWebFormAccessoryViewWrapper
+		 keyWindow.frame: {{0, 0}, {428, 926}}
+		 inputViews ? inputViews->_assistantViewController : nil: UISystemInputAssistantViewController
+		 inputViews.keyboard: UIKeyboardAutomatic
+		 keyWindow.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 inputViews ? inputViews->_inputAssistantView : nil: TUISystemInputAssistantView
+		 FocusRequested: 1
+		 LastActivated: 1
+		 placementKeyboard: UIInputViewSetPlacementOnScreenWithAccessory
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f9acc0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; -177825861/YES/5.000000
+2022-10-01 02:53:55 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to <UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED > level 5.000000
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] signalKeyboardChangeComplete
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:53:55 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:56 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] suspended
+2022-10-01 02:53:56 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] clearAcquiringFocusFlags sceneIdentity: (null)
+2022-10-01 02:53:57 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 66.333333; on screen YES; isAcquiringFocus: NO>] signalEventSourceChanged:completionHandler:: 1
+2022-10-01 02:53:57 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:57 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:57 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:53:57 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:57 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:53:57 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:53:57 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:53:57 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen YES; isAcquiringFocus: NO>] signalKeyboardChanged:onCompletion:: <<<_UIKeyboardChangedInformation: 0x2805a0dd0>; animation fence <BKSAnimationFenceHandle:0x283cc7400 -> <CAFenceHandle:0x2816d8d90 name=9a3 fence=24300000595 usable=YES>>; position {{0, 0}, {0, 0}}; animated YES; on screen NO; tracking NO; local NO, dock state: _UIKeyboardUIPositionUnknown>; source canvas com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED; source display Main; source bundle com.apple.mobilesafari; host bundle (null); animation fence <BKSAnimationFenceHandle:0x283cc7400 -> <CAFenceHandle:0x2816d8d90 name=9a3 fence=24300000595 usable=YES>>; position {{0, 0}, {0, 0}} (with IAV same); on screen NO; intersectable YES; snapshot YES>
+2022-10-01 02:54:08 +0000: Debug: [_UIKeyboardArbiter] _activeInputDestinationHandle is now {public}@; information: {public}@
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=2)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=2)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=2)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=1)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=1)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=1)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:54:08 +0000:
+	<_UIKeyboardArbiterClientHandle: 0x2809c75a0; PID 869: com.apple.GradientPoster.GradientPosterExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809b1760; PID 878: com.apple.PassbookUIService <<UIKBArbiterClientFocusContext: 0x283e399e0 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809e1290; PID 1508: com.apple.corelocation.CoreLocationVanillaWhenInUseAuthPromptPlugin <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809ca1b0; PID 1521: com.apple.mobileslideshow.photo-picker <<UIKBArbiterClientFocusContext: 0x2839a1380 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809d72e0; PID 1534: com.apple.BusinessChatViewService <<UIKBArbiterClientFocusContext: 0x283e06880 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809c5b80; PID 1551: com.macrecon.Sidefari.ModalExtension <<UIKBArbiterClientFocusContext: 0x28381c0e0 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28099fe90; PID 1558: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809825d0; PID 1569: com.apple.MusicUIService <<UIKBArbiterClientFocusContext: 0x283991a20 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28098fc80; PID 1598: com.apple.RemoteiCloudQuotaUI <<UIKBArbiterClientFocusContext: 0x2839c3000 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809d9290; PID 1615: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809add90; PID 1758: com.apple.AuthKitUI.AKLocationSignInAlert <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809cae10; PID 1759: com.apple.AuthKitUI.AKSecondFactorAlert <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 Special: druid
+		 FocusRequested: 0
+		 LastActivated: 0
+	<_UIKeyboardArbiter: 0x280781f80; scene data omitted;
+disabler = (null);
+lastEventSource = 1;
+current state = (null);
+active handle = (null);
+handles = (
+    "<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(\n)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c75a0; PID 869: com.apple.GradientPoster.GradientPosterExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809b1760; PID 878: com.apple.PassbookUIService <<UIKBArbiterClientFocusContext: 0x283e399e0 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809e1290; PID 1508: com.apple.corelocation.CoreLocationVanillaWhenInUseAuthPromptPlugin <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809ca1b0; PID 1521: com.apple.mobileslideshow.photo-picker <<UIKBArbiterClientFocusContext: 0x2839a1380 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809d72e0; PID 1534: com.apple.BusinessChatViewService <<UIKBArbiterClientFocusContext: 0x283e06880 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c5b80; PID 1551: com.macrecon.Sidefari.ModalExtension <<UIKBArbiterClientFocusContext: 0x28381c0e0 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28099fe90; PID 1558: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809825d0; PID 1569: com.apple.MusicUIService <<UIKBArbiterClientFocusContext: 0x283991a20 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28098fc80; PID 1598: com.apple.RemoteiCloudQuotaUI <<UIKBArbiterClientFocusContext: 0x2839c3000 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809d9290; PID 1615: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(\n)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809add90; PID 1758: com.apple.AuthKitUI.AKLocationSignInAlert <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809cae10; PID 1759: com.apple.AuthKitUI.AKSecondFactorAlert <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>"
+)>:
+	 -> State: Inactive  
+	<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 FocusRequested: 0
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 inputViews ? inputViews->_inputView : nil: _UIRemoteKeyboardPlaceholderView
+		 FocusRequested: 0
+		 automaticAppearance: en YES / int YES
+		 keyWindow: SBMainSwitcherWindow
+		 keyWindowSceneSettings.interfaceOrientation: 1
+		 keyWindow.interfaceOrientation: 1
+		 LastActivated: 0
+		 keyWindow.frame: {{0, 0}, {428, 926}}
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+		 currentKeyboard: small-letters-small-display
+		 inputViews ? inputViews->_inputViewController : nil: UICompatibilityInputViewController
+	<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 LastActivated: 1
+		 keyWindowFirstResponder: WKContentView
+		 keyWindowFirstResponderDisableKeyboardUI: 1
+		 keyboardResponderDisableKeyboardUI: 1
+		 inputViews ? inputViews->_inputAccessoryView : nil: SFWebFormAccessoryViewWrapper
+		 keyWindow: MobileSafariWindow
+		 keyboardResponder: WKContentView
+		 keyWindowFirstResponderRequiresKeyboard: 0
+		 currentKeyboard: capital-letters
+		 inputViews ? inputViews->_inputView : nil: _UIKBCompatInputView
+		 keyboardWindow.isHidden: 0
+		 keyWindowSceneSettings.interfaceOrientation: 1
+		 keyboardResponderRequiresKeyboard: 0
+		 UIApp.interfaceOrientation: 1
+		 keyboardWindow.interfaceOrientation: 1
+		 inputViews ? inputViews->_inputViewController : nil: UICompatibilityInputViewController
+		 inputViews ? inputViews->_accessoryViewController : nil: UICompatibilityInputViewController
+		 keyboardWindow.frame: {{0, 0}, {428, 926}}
+		 keyWindow.frame: {{0, 0}, {428, 926}}
+		 inputViews ? inputViews->_assistantViewController : nil: UISystemInputAssistantViewController
+		 inputViews.keyboard: UIKeyboardAutomatic
+		 keyWindow.interfaceOrientation: 1
+		 automaticAppearance: en YES / int YES
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+		 inputViews ? inputViews->_inputAssistantView : nil: TUISystemInputAssistantView
+		 FocusRequested: 1
+		 placementKeyboard: UIInputViewSetPlacementOffScreenDown
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283f83900; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283e4c340; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; -177825861/NO/5.000000
+2022-10-01 02:54:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e4c340; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] clearAcquiringFocusFlags sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:08 +0000: Debug: [_UIKeyboardArbiter] Detaching [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e4c340; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] <FBSCAContextSceneLayer: 0x283e722e0; contextID: 0xf56697bb (4117141435); alignment: scene>
+2022-10-01 02:54:08 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:08 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:09 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:09 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:09 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:09 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:13 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:13 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:13 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:13 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:23 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:23 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:23 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:23 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:25 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:25 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:25 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:25 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:25 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:25 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:25 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:25 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:28 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:28 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:28 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:28 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:28 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:28 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:28 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:28 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:29 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:29 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:29 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:29 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:30 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:30 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:30 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:30 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:31 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:31 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:31 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:31 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:32 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:32 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:32 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:32 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:32 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:32 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:32 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:32 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:33 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:33 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:33 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:33 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:35 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:54:35 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:54:35 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:54:35 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:54:35 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eae2a0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] signalEventSourceChanged:completionHandler:: 0
+2022-10-01 02:54:35 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:54:35 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:54:35 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:54:35 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:54:35 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:54:35 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:54:35 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:54:35 +0000: Debug: Advisor: Scene focus update without advisor input enqueued on the main thread: generation: 67; PID: 0; sceneIdentity: (null)
+2022-10-01 02:54:35 +0000: Debug: Advisor: Scene focus update without advisor input: generation: 67; PID: 0; sceneIdentity: (null)
+2022-10-01 02:54:35 +0000: Debug: Advisor: Applying pending scene focus update from omniscient delegate: generation: 67; PID: 0; sceneIdentity: (null)
+2022-10-01 02:54:35 +0000: Debug: Advisor: Updating current keyboard focus to PID: 0; sceneIdentity: (null)
+2022-10-01 02:54:35 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809b8000; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eae2a0; contextID = 9a734763; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] clearAcquiringFocusFlags sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:20 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:58:20 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:20 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:20 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:28 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:58:28 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:28 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:28 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:29 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:58:29 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:29 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:29 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:31 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:58:31 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:31 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:31 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:35 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:58:35 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:35 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:35 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] started running
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283fac360; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: YES>] setWindowHostingPID:active:: 1764/YES
+2022-10-01 02:58:36 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] requested process assertion (count=1)
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283fac360; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: YES>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283e4c1c0; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; 712487150/YES/5.000000
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283fac360; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: YES>] setWindowContextID:focusContext:windowState:withLevel: Clearing acquiring focus flags for update: sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283fac360; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: YES>] clearAcquiringFocusFlags sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283fac360; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active NO [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] Created: <FBSCAContextSceneLayer: 0x283e4ea20; contextID: 0x2a77b0ee (712487150); alignment: scene>
+2022-10-01 02:58:36 +0000: Debug: [_UIKeyboardArbiter] Attaching [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e4c1c0; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active NO [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] <FBSCAContextSceneLayer: 0x283e4ea20; contextID: 0x2a77b0ee (712487150); alignment: scene>
+2022-10-01 02:58:36 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:36 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:36 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] took process assertion
+2022-10-01 02:58:36 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] released process assertion (count=0)
+2022-10-01 02:58:37 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:58:37 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:37 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:37 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:38 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283fac1c0; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283e79b80; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; 712487150/YES/5.000000
+2022-10-01 02:58:38 +0000: Error: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283fac1c0; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: Rejecting update as the handle or its hosted services are not on screen: sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:38 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283fac1c0; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283ead380; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; 712487150/YES/5.000000
+2022-10-01 02:58:38 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:38 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283ead380; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283fade00; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; 712487150/YES/5.000000
+2022-10-01 02:58:38 +0000: Error: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283ead380; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: Rejecting update as the handle or its hosted services are not on screen: sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:38 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283ead380; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283fade00; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; 712487150/YES/5.000000
+2022-10-01 02:58:38 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:38 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283fade00; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowHostingPID:active:: 1764/YES
+2022-10-01 02:58:38 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283fade00; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283facb40; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; 712487150/YES/5.000000
+2022-10-01 02:58:38 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:38 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283facb40; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+    1764
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowHostingPID:active:: 1764/NO
+2022-10-01 02:58:40 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:58:40 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:40 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:40 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:41 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:58:41 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:41 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:41 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:42 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:58:42 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:42 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:42 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:43 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eadbe0; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants YES]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] setWindowContextID:focusContext:windowState:withLevel: focusContext: <UIKBArbiterClientFocusContext: 0x283e98700; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; 712487150/NO/5.000000
+2022-10-01 02:58:43 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e98700; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] clearAcquiringFocusFlags sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:43 +0000: Debug: [_UIKeyboardArbiter] Detaching [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e98700; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active YES [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] <FBSCAContextSceneLayer: 0x283e4ea20; contextID: 0x2a77b0ee (712487150); alignment: scene>
+2022-10-01 02:58:43 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:43 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:44 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] suspended
+2022-10-01 02:58:44 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] clearAcquiringFocusFlags sceneIdentity: (null)
+2022-10-01 02:58:45 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 02:58:45 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 02:58:45 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:58:45 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:58:45 +0000: Debug: Advisor: Scene focus update without advisor input enqueued on the main thread: generation: 69; PID: 0; sceneIdentity: (null)
+2022-10-01 02:58:45 +0000: Debug: Advisor: Scene focus update without advisor input: generation: 69; PID: 0; sceneIdentity: (null)
+2022-10-01 02:58:45 +0000: Debug: Advisor: Applying pending scene focus update from omniscient delegate: generation: 69; PID: 0; sceneIdentity: (null)
+2022-10-01 02:58:45 +0000: Debug: Advisor: Updating current keyboard focus to PID: 0; sceneIdentity: (null)
+2022-10-01 02:58:45 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809c6890; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e972e0; contextID = b0afdc54; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 5.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] clearAcquiringFocusFlags sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:59:53 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809dd1e0; PID 951: com.apple.mobilesafari <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] startArbitrationWithExpectedState:focusContext:hostingPIDs:usingFence:withSuppression:onConnected:: currentKeyboard: (null); focusContext: <UIKBArbiterClientFocusContext: 0x283e6b220; contextID = e6a4450e; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; pids: (
+)
+2022-10-01 02:59:53 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 02:59:53 +0000: Debug: [_UIKeyboardArbiter] _focusRequestedHandle is now {public}@; stole keyboard: {public}@
+2022-10-01 02:59:53 +0000: Debug: Advisor: Triggering reevaluation. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:59:53 +0000: Debug: Advisor: KeyboardFocus from _activeHandleForFocusEvaluation [<_UIKeyboardArbiterClientHandle: 0x2809dd1e0; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e6b220; contextID = e6a4450e; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>]
+2022-10-01 02:59:53 +0000: Debug: Advisor: Deliberation result: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:59:53 +0000: Debug: Advisor: Updating current keyboard focus to PID: 951; sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 02:59:53 +0000: Error: Advisor: No handle found for currently focused PID: {public}d; sceneIdentity: {public}@
+2022-10-01 03:00:08 +0000: Debug: Advisor: Scene focus update without advisor input enqueued on the main thread: generation: 71; PID: 0; sceneIdentity: (null)
+2022-10-01 03:00:08 +0000: Debug: Advisor: Scene focus update without advisor input: generation: 71; PID: 0; sceneIdentity: (null)
+2022-10-01 03:00:08 +0000: Debug: Advisor: Applying pending scene focus update from omniscient delegate: generation: 71; PID: 0; sceneIdentity: (null)
+2022-10-01 03:00:08 +0000: Debug: Advisor: Updating current keyboard focus to PID: 0; sceneIdentity: (null)
+2022-10-01 03:00:08 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809dd1e0; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e6b220; contextID = e6a4450e; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: YES>] clearAcquiringFocusFlags sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 03:00:21 +0000: Debug: [_UIKeyboardArbiter] Received new connection [<_UIKeyboardArbiterClientHandle: 0x2809d4a50; PID 951: com.apple.mobilesafari <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>]
+2022-10-01 03:00:21 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809d4a50; PID 951: com.apple.mobilesafari <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] startArbitrationWithExpectedState:focusContext:hostingPIDs:usingFence:withSuppression:onConnected:: currentKeyboard: (null); focusContext: <UIKBArbiterClientFocusContext: 0x283e72280; contextID = 15392d65; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; pids: (
+)
+2022-10-01 03:00:21 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 03:00:21 +0000: Debug: [_UIKeyboardArbiter] _focusRequestedHandle is now {public}@; stole keyboard: {public}@
+2022-10-01 03:00:21 +0000: Debug: Advisor: Triggering reevaluation. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 03:00:21 +0000: Debug: Advisor: KeyboardFocus from _activeHandleForFocusEvaluation [<_UIKeyboardArbiterClientHandle: 0x2809d4a50; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e72280; contextID = 15392d65; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>]
+2022-10-01 03:00:21 +0000: Debug: Advisor: Deliberation result: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 03:00:21 +0000: Debug: Advisor: Updating current keyboard focus to PID: 951; sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 03:00:21 +0000: Error: Advisor: No handle found for currently focused PID: {public}d; sceneIdentity: {public}@
+2022-10-01 03:00:27 +0000: Debug: Advisor: Scene focus update without advisor input enqueued on the main thread: generation: 73; PID: 0; sceneIdentity: (null)
+2022-10-01 03:00:27 +0000: Debug: Advisor: Scene focus update without advisor input: generation: 73; PID: 0; sceneIdentity: (null)
+2022-10-01 03:00:27 +0000: Debug: Advisor: Applying pending scene focus update from omniscient delegate: generation: 73; PID: 0; sceneIdentity: (null)
+2022-10-01 03:00:27 +0000: Debug: Advisor: Updating current keyboard focus to PID: 0; sceneIdentity: (null)
+2022-10-01 03:00:27 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809d4a50; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e72280; contextID = 15392d65; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: YES>] clearAcquiringFocusFlags sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 03:00:51 +0000: Debug: [_UIKeyboardArbiter] Received new connection [<_UIKeyboardArbiterClientHandle: 0x2809d6100; PID 951: com.apple.mobilesafari <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>]
+2022-10-01 03:00:51 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809d6100; PID 951: com.apple.mobilesafari <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>] startArbitrationWithExpectedState:focusContext:hostingPIDs:usingFence:withSuppression:onConnected:: currentKeyboard: (null); focusContext: <UIKBArbiterClientFocusContext: 0x283e2dd60; contextID = 97e3b8ea; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >; pids: (
+)
+2022-10-01 03:00:51 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 03:00:51 +0000: Debug: [_UIKeyboardArbiter] _focusRequestedHandle is now {public}@; stole keyboard: {public}@
+2022-10-01 03:00:51 +0000: Debug: Advisor: Triggering reevaluation. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 03:00:51 +0000: Debug: Advisor: KeyboardFocus from _activeHandleForFocusEvaluation [<_UIKeyboardArbiterClientHandle: 0x2809d6100; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283e2dd60; contextID = 97e3b8ea; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>]
+2022-10-01 03:00:51 +0000: Debug: Advisor: Deliberation result: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 03:00:51 +0000: Debug: Advisor: Updating current keyboard focus to PID: 951; sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 03:00:51 +0000: Error: Advisor: No handle found for currently focused PID: {public}d; sceneIdentity: {public}@
+2022-10-01 03:00:57 +0000: Debug: [{public}@] {public}@: remoteSceneIdentity: {public}@; handle: {public}@; stealKeyboard: {public}@
+2022-10-01 03:00:57 +0000: Debug: [_UIKeyboardArbiter] Updating focus context to (null) level 2.000000
+2022-10-01 03:00:57 +0000: Debug: [{public}@] Handler requested focus: {public}@; steal keyboard: {public}@
+2022-10-01 03:00:57 +0000: Debug: Advisor: Skipping reevaluation as there is no change. Active PID: 951, activeHandleID: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+2022-10-01 03:01:04 +0000: Debug: Advisor: Scene focus update without advisor input enqueued on the main thread: generation: 75; PID: 0; sceneIdentity: (null)
+2022-10-01 03:01:04 +0000: Debug: Advisor: Scene focus update without advisor input: generation: 75; PID: 0; sceneIdentity: (null)
+2022-10-01 03:01:04 +0000: Debug: Advisor: Applying pending scene focus update from omniscient delegate: generation: 75; PID: 0; sceneIdentity: (null)
+2022-10-01 03:01:04 +0000: Debug: Advisor: Updating current keyboard focus to PID: 0; sceneIdentity: (null)
+2022-10-01 03:01:04 +0000: Debug: [<_UIKeyboardArbiterClientHandle: 0x2809d6100; PID 951: com.apple.mobilesafari <<UIKBArbiterClientFocusContext: 0x283eaf3e0; contextID = 97e3b8ea; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: YES>] clearAcquiringFocusFlags sceneIdentity: com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.mobilesafari-05CB4092-E6A3-4BB6-AABD-A9F33868A9ED
+	<_UIKeyboardArbiterClientHandle: 0x2809c75a0; PID 869: com.apple.GradientPoster.GradientPosterExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809b1760; PID 878: com.apple.PassbookUIService <<UIKBArbiterClientFocusContext: 0x283e399e0 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809e1290; PID 1508: com.apple.corelocation.CoreLocationVanillaWhenInUseAuthPromptPlugin <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809ca1b0; PID 1521: com.apple.mobileslideshow.photo-picker <<UIKBArbiterClientFocusContext: 0x2839a1380 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809d72e0; PID 1534: com.apple.BusinessChatViewService <<UIKBArbiterClientFocusContext: 0x283e06880 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809c5b80; PID 1551: com.macrecon.Sidefari.ModalExtension <<UIKBArbiterClientFocusContext: 0x28381c0e0 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28099fe90; PID 1558: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809825d0; PID 1569: com.apple.MusicUIService <<UIKBArbiterClientFocusContext: 0x283991a20 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28098fc80; PID 1598: com.apple.RemoteiCloudQuotaUI <<UIKBArbiterClientFocusContext: 0x2839c3000 >> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809d9290; PID 1615: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809add90; PID 1758: com.apple.AuthKitUI.AKLocationSignInAlert <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809cae10; PID 1759: com.apple.AuthKitUI.AKSecondFactorAlert <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809ba940; PID 1511: com.apple.SafariViewService <(null)> (suspended); hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 FocusRequested: 0
+		 Process: Suspended
+		 LastActivated: 0
+	<_UIKeyboardArbiter: 0x280781f80; scene data omitted;
+disabler = (null);
+lastEventSource = 0;
+current state = (null);
+active handle = (null);
+handles = (
+    "<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(\n)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c75a0; PID 869: com.apple.GradientPoster.GradientPosterExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809b1760; PID 878: com.apple.PassbookUIService <<UIKBArbiterClientFocusContext: 0x283e399e0 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809e1290; PID 1508: com.apple.corelocation.CoreLocationVanillaWhenInUseAuthPromptPlugin <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809ca1b0; PID 1521: com.apple.mobileslideshow.photo-picker <<UIKBArbiterClientFocusContext: 0x2839a1380 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809d72e0; PID 1534: com.apple.BusinessChatViewService <<UIKBArbiterClientFocusContext: 0x283e06880 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c5b80; PID 1551: com.macrecon.Sidefari.ModalExtension <<UIKBArbiterClientFocusContext: 0x28381c0e0 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28099fe90; PID 1558: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809825d0; PID 1569: com.apple.MusicUIService <<UIKBArbiterClientFocusContext: 0x283991a20 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x28098fc80; PID 1598: com.apple.RemoteiCloudQuotaUI <<UIKBArbiterClientFocusContext: 0x2839c3000 >> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809d9290; PID 1615: com.apple.AuthKitUI.AKAppSSOExtension <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809add90; PID 1758: com.apple.AuthKitUI.AKLocationSignInAlert <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809cae10; PID 1759: com.apple.AuthKitUI.AKSecondFactorAlert <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809c5080; PID 1764: com.apple.PDFKit.PDFExtensionView <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809ba940; PID 1511: com.apple.SafariViewService <(null)> (suspended); hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809adce0; PID 1774: com.apple.appleseed.FeedbackAssistant <<UIKBArbiterClientFocusContext: 0x283e8dcc0; contextID = 98860adc; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.appleseed.FeedbackAssistant-default >>; hosting PIDs {(\n)}; level 5.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>",
+    "<_UIKeyboardArbiterClientHandle: 0x2809d4a50; PID 1797: (null) <(null)>; hosting PIDs {(\n)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>"
+)>:
+	 -> State: Inactive  
+	<_UIKeyboardArbiterClientHandle: 0x2809c6f70; PID 547: com.apple.springboard <<UIKBArbiterClientFocusContext: 0x283e73440; contextID = 9c955d8a; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:com.apple.springboard >>; hosting PIDs {(
+)}; level 4.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 UIApp.interfaceOrientation: 1
+		 FocusRequested: 0
+		 keyWindow.interfaceOrientation: 1
+		 keyWindow: SBMainSwitcherWindow
+		 automaticAppearance: en YES / int YES
+		 keyWindowSceneSettings.interfaceOrientation: 1
+		 LastActivated: 0
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+		 keyWindow.frame: {{0, 0}, {428, 926}}
+		 currentKeyboard: small-letters-small-display
+	<_UIKeyboardArbiterClientHandle: 0x2809988f0; PID 1553: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 Special: druid
+		 FocusRequested: 0
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x2809adce0; PID 1774: com.apple.appleseed.FeedbackAssistant <<UIKBArbiterClientFocusContext: 0x283e8dcc0; contextID = 98860adc; sceneIdentity = com.apple.frontboard.systemappservices::FBSceneManager:sceneID%3Acom.apple.appleseed.FeedbackAssistant-default >>; hosting PIDs {(
+)}; level 5.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 keyWindowFirstResponder: FBAMailboxesViewController
+		 UIApp.interfaceOrientation: 1
+		 FocusRequested: 1
+		 automaticAppearance: en YES / int YES
+		 keyWindow: UIWindow
+		 keyWindowSceneSettings.interfaceOrientation: 1
+		 keyWindow.interfaceOrientation: 1
+		 LastActivated: 0
+		 keyWindow.frame: {{0, 0}, {428, 926}}
+		 placementEffects: UIInputViewSetPlacementOffScreenDown
+		 keyWindowFirstResponderRequiresKeyboard: 0
+		 currentKeyboard: 1512_PortraitTruffle_iPhone-Alphabetic-Keyboard_Capital-Letters
+	<_UIKeyboardArbiterClientHandle: 0x2809d4a50; PID 1797: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 Special: kbdebug
+		 FocusRequested: 0
+		 LastActivated: 0
+	<_UIKeyboardArbiterClientHandle: 0x28099f7b0; PID 1560: com.apple.AuthKitUIService <<UIKBArbiterClientFocusContext: 0x2839d6cc0; contextID = b14ea50e >>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0; iav 0.000000; on screen NO; isAcquiringFocus: NO>:
+	 -> State: Inactive  
+		 automaticAppearance: en YES / int YES
+		 UIApp.interfaceOrientation: 1
+		 FocusRequested: 0
+		 LastActivated: 0

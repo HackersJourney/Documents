@@ -1,0 +1,17 @@
+# --- Bluetooth Status
+
+    Power                : On
+    MAC Address          : 28:8E:EC:C8:62:70
+    Discoverable         : No
+    Connectable          : No
+    Scanning             : No
+    Devices              : 1 (paired=1 cloud=1 connected=0)
+
+    Lee Ann’s iPad
+    Address          : CBC0F9EE-6A3C-07C6-1DD0-AD6CE7A073C0
+    Paired           : Yes
+    CloudPaired      : Yes
+    Connected        : No
+
+
+

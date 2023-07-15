@@ -1,0 +1,564 @@
+Date/Time:         2022-10-01 03:04:31 +0000
+OS Version:        20A380
+FP Version:        730.0.125
+
+
+13 providers
+=====================================================
+com.apple.CloudDocs.iCloudDriveFileProviderManaged
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 1
+  + read-only: 0
+  + extension storage URLs: (1)
+    - <GroupContainers>/2C92DFD5-5315-4D63-AC4F-3B166D9409A6/F{19}e
+  + file coordination purpose ID: com.apple.bird
+  + display name: ICD
+  + bundle URL: /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProviderManaged.appex
+  + containing bundle identifier: com.apple.CloudDocs.iCloudDriveFileProviderManaged
+  + persona: none
+  + document group name: group.com.apple.iCloudDrive
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default) (hidden)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+  + uses FPFS: no
+  + root: <GroupContainers>/2C92DFD5-5315-4D63-AC4F-3B166D9409A6/F{19}e
+  + persona: none
+  + indexer:
+
+
+=====================================================
+com.readdle.ReaddleDocsIPad.DocsExtFileProvider
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 1
+  + read-only: 0
+  + extension storage URLs: (1)
+    - <GroupContainers>/C360ADD5-BF79-4441-9EC4-DDF167A86B59/F{19}e
+  + file coordination purpose ID: com.readdle.ReaddleDocsIPad.DocsExtFileProvider
+  + display name: Documents
+  + bundle URL: /v{1}r/c{8}s/B{4}e/A{9}n/2{34}8/D{7}s.app/P{5}s/D{17}r.appex
+  + containing bundle identifier: com.readdle.ReaddleDocsIPad
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: group.com.readdle.documents
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+[33m  + (⏹  user-disabled)
+[39m  + uses FPFS: no
+  + root: <GroupContainers>/C360ADD5-BF79-4441-9EC4-DDF167A86B59/F{19}e
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+      scheduler:      <l:com.apple.fileprovider.indexing 🛏  registration:2022-10-01 03:01:42 +0000 trigger:2022-10-01 03:01:42 +0000>
+      enabled:        no
+      indexing:       no
+      needs-indexing: no
+      needs-auth:     no
+      errors:         0
+      batch-indexed (since last startup): 0
+    not dumping extension: not running
+
+=====================================================
+com.adobe.Adobe-Reader.fileprovider
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 1
+  + read-only: 0
+  + extension storage URLs: (1)
+    - <GroupContainers>/2C13D82B-AC2E-496D-8D32-E510C5AB4413/F{19}e
+  + file coordination purpose ID: com.adobe.Adobe-Reader.fileprovider
+  + display name: Acrobat
+  + bundle URL: /v{1}r/c{8}s/B{4}e/A{9}n/9{34}0/A{5}t.app/P{5}s/A{18}d.appex
+  + containing bundle identifier: com.adobe.Adobe-Reader
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: group.com.adobe.Adobe-Reader.fileprovider
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+[33m  + (⏹  user-disabled)
+[39m  + uses FPFS: no
+  + root: <GroupContainers>/2C13D82B-AC2E-496D-8D32-E510C5AB4413/F{19}e
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+      scheduler:      <l:com.apple.fileprovider.indexing 🛏  registration:2022-10-01 03:01:42 +0000 trigger:2022-10-01 03:01:42 +0000>
+      enabled:        no
+      indexing:       no
+      needs-indexing: no
+      needs-auth:     no
+      errors:         0
+      batch-indexed (since last startup): 0
+    not dumping extension: not running
+
+=====================================================
+com.apple.mobileslideshow.PhotosFileProvider
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 0
+  + supports FPFS: 0
+  + read-only: 0
+  + extension storage URLs: (1)
+    - <GroupContainers>/D3BD730B-76BE-47D7-8382-BE9D1AD3C544/F{19}e
+  + file coordination purpose ID: com.apple.mobileslideshow.PhotosFileProvider
+  + display name: PhotosFileProvider
+  + bundle URL: /Applications/MobileSlideShow.app/PlugIns/PhotosFileProvider.appex
+  + containing bundle identifier: com.apple.mobileslideshow
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: group.com.apple.mobileslideshow.PhotosFileProvider
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: d{9}p (P{4}s)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+  + uses FPFS: no
+  + root: <GroupContainers>/D3BD730B-76BE-47D7-8382-BE9D1AD3C544/F{19}e/d{9}p
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+      scheduler:      <l:com.apple.fileprovider.indexing 🛏  registration:2022-10-01 03:01:42 +0000 trigger:2022-10-01 03:01:42 +0000>
+      enabled:        yes
+      indexing:       no
+      needs-indexing: no
+      needs-auth:     no
+      errors:         0
+      batch-indexed (since last startup): 0
+    not dumping extension: not running
+-----------------------------------------------------
+domain: (default) (hidden)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+  + uses FPFS: no
+  + root: <GroupContainers>/D3BD730B-76BE-47D7-8382-BE9D1AD3C544/F{19}e
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+      scheduler:      <l:com.apple.fileprovider.indexing 🛏  registration:2022-10-01 03:01:42 +0000 trigger:2022-10-01 03:01:42 +0000>
+      enabled:        yes
+      indexing:       no
+      needs-indexing: no
+      needs-auth:     no
+      errors:         0
+      batch-indexed (since last startup): 1
+    not dumping extension: not running
+
+=====================================================
+com.apple.CloudDocs.MobileDocumentsFileProvider
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 0
+  + read-only: 0
+  + extension storage URLs: (1)
+    - ~/L{5}y/M{14}s
+  + file coordination purpose ID: com.apple.bird
+  + display name: iCloud Drive
+  + bundle URL: /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex
+  + containing bundle identifier: com.apple.CloudDocs.MobileDocumentsFileProvider
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: none
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default)
+-----------------------------------------------------
+[33mbackground[39m[33m request running;[39m observing:{com.apple.PassKitCore}; grace period timer not running
+[33m alive[39m for:
+     presenter for U{13}s (i166b6) by passd[622]
+  + uses FPFS: no
+  + root: ~/L{5}y/M{14}s
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+      scheduler:      <l:com.apple.fileprovider.indexing 🛏  registration:2022-10-01 03:01:42 +0000 trigger:2022-10-01 03:01:42 +0000>
+      enabled:        yes
+      indexing:       no
+      needs-indexing: no
+      needs-auth:     no
+      errors:         0
+      batch-indexed (since last startup): 488
+    change token: {length = 21, bytes = 0x0100001000af1400000000000034384cf883fd635e}
+    operation: (
+)
+  presenter: [32mpassd[622][39m presenting ~LMD/c{15}x/U{13}s (clouddocs/i166b6) (FD53FD91-59C9-45E8-AFB9-C5CC8F664238)
+
+
+=====================================================
+com.apple.filesystems.UserFS.FileProvider
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 1
+  + read-only: 0
+  + extension storage URLs: (1)
+    - ~/L{5}y/L{7}s/c{19}s.userfsd
+  + file coordination purpose ID: com.apple.filesystems.UserFS.FileProvider
+  + display name: External Storage
+  + bundle URL: /System/Library/PrivateFrameworks/UserFS.framework/PlugIns/userfs_provider.appex
+  + containing bundle identifier: com.apple.filesystems.UserFS.FileProvider
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: none
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default) (hidden)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+  + uses FPFS: no
+  + root: ~/L{5}y/L{7}s/c{19}s.userfsd
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+
+
+=====================================================
+com.apple.CloudDocs.MobileDocumentsFileProviderManaged
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 0
+  + read-only: 0
+  + extension storage URLs: (1)
+    - <GroupContainers>/37694B30-F5AF-400A-B10D-B876E4A06FBE/F{19}e
+  + file coordination purpose ID: com.apple.bird
+  + display name: iCloud Drive
+  + bundle URL: /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProviderManaged.appex
+  + containing bundle identifier: com.apple.CloudDocs.MobileDocumentsFileProviderManaged
+  + persona: none
+  + document group name: group.com.apple.CloudDocs
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default) (hidden)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+  + uses FPFS: no
+  + root: <GroupContainers>/37694B30-F5AF-400A-B10D-B876E4A06FBE/F{19}e
+  + persona: none
+  + indexer:
+
+
+=====================================================
+com.teamviewer.rc.FileProviderExtensionRC
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 1
+  + read-only: 0
+  + extension storage URLs: (1)
+    - <GroupContainers>/3A2379E6-CAEF-48F4-9A55-31E0C24F5A82/F{19}e
+  + file coordination purpose ID: com.teamviewer.rc.FileProviderExtensionRC
+  + display name: TeamViewer
+  + bundle URL: /v{1}r/c{8}s/B{4}e/A{9}n/0{34}F/R{11}l.app/P{5}s/F{21}C.appex
+  + containing bundle identifier: com.teamviewer.rc
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: group.com.teamviewer.teamviewerQS
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+[33m  + (⏹  user-disabled)
+[39m  + uses FPFS: no
+  + root: <GroupContainers>/3A2379E6-CAEF-48F4-9A55-31E0C24F5A82/F{19}e
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+      scheduler:      <l:com.apple.fileprovider.indexing 🛏  registration:2022-10-01 03:01:42 +0000 trigger:2022-10-01 03:01:42 +0000>
+      enabled:        no
+      indexing:       no
+      needs-indexing: no
+      needs-auth:     no
+      errors:         0
+      batch-indexed (since last startup): 0
+    not dumping extension: not running
+
+=====================================================
+com.apple.SMBClientProvider.FileProvider
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 1
+  + read-only: 0
+  + extension storage URLs: (1)
+    - ~/L{5}y/L{7}s/c{19}s.smbclientd
+  + file coordination purpose ID: com.apple.SMBClientProvider.FileProvider
+  + display name: SMB
+  + bundle URL: /System/Library/PrivateFrameworks/SMBClientProvider.framework/PlugIns/com.apple.SMBClientProvider.FileProvider.appex
+  + containing bundle identifier: com.apple.SMBClientProvider.FileProvider
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: none
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default) (hidden)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+  + uses FPFS: no
+  + root: ~/L{5}y/L{7}s/c{19}s.smbclientd
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+
+
+=====================================================
+com.google.Drive.FileProviderExtension
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 1
+  + read-only: 0
+  + extension storage URLs: (1)
+    - <GroupContainers>/2C9788CB-DEB5-4725-B5D9-C82002011F64/F{19}e
+  + file coordination purpose ID: com.google.Drive.FileProviderExtension
+  + display name: Drive
+  + bundle URL: /v{1}r/c{8}s/B{4}e/A{9}n/4{34}A/D{3}e.app/P{5}s/F{10}r.appex
+  + containing bundle identifier: com.google.Drive
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: group.com.google.Drive
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+[33m  + (⏹  user-disabled)
+[39m  + uses FPFS: no
+  + root: <GroupContainers>/2C9788CB-DEB5-4725-B5D9-C82002011F64/F{19}e
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+      scheduler:      <l:com.apple.fileprovider.indexing 🛏  registration:2022-10-01 03:01:42 +0000 trigger:2022-10-01 03:01:42 +0000>
+      enabled:        no
+      indexing:       no
+      needs-indexing: no
+      needs-auth:     no
+      errors:         0
+      batch-indexed (since last startup): 0
+    not dumping extension: not running
+
+=====================================================
+com.apple.FileProvider.LocalStorage
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 0
+  + read-only: 0
+  + extension storage URLs: (1)
+    - <GroupContainers>/FB353ABE-3A87-483D-A36B-148B7F358646/F{19}e
+  + file coordination purpose ID: com.apple.FileProvider.LocalStorage
+  + display name: Local Storage
+  + bundle URL: /System/Library/Frameworks/FileProvider.framework/PlugIns/LocalStorageFileProvider.appex
+  + containing bundle identifier: com.apple.FileProvider.LocalStorage
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: group.com.apple.FileProvider.LocalStorage
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+  + uses FPFS: no
+  + root: <GroupContainers>/FB353ABE-3A87-483D-A36B-148B7F358646/F{19}e
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+      scheduler:      <l:com.apple.fileprovider.indexing 🛏  registration:2022-10-01 03:01:42 +0000 trigger:2022-10-01 03:01:42 +0000>
+      enabled:        yes
+      indexing:       no
+      needs-indexing: no
+      needs-auth:     no
+      errors:         0
+      batch-indexed (since last startup): 4
+    not dumping extension: not running
+
+=====================================================
+com.apple.CloudDocs.iCloudDriveFileProvider
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 1
+  + read-only: 0
+  + extension storage URLs: (1)
+    - <AppSupport>/CloudDocs/c{5}a
+  + file coordination purpose ID: com.apple.bird
+  + display name: ICD
+  + bundle URL: /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex
+  + containing bundle identifier: com.apple.CloudDocs.iCloudDriveFileProvider
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: none
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default) (hidden)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+  + uses FPFS: no
+  + root: <AppSupport>/CloudDocs/c{5}a
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+
+
+=====================================================
+com.teamviewer.teamviewerQS.FileProviderExtensionQS
+=====================================================
+  + version: none
+  + available system wide: 1
+  + supports enumeration: 1
+  + supports FPFS: 1
+  + read-only: 0
+  + extension storage URLs: (1)
+    - <GroupContainers>/3A2379E6-CAEF-48F4-9A55-31E0C24F5A82/F{19}e
+  + file coordination purpose ID: com.teamviewer.teamviewerQS.FileProviderExtensionQS
+  + display name: QuickSupport
+  + bundle URL: /v{1}r/c{8}s/B{4}e/A{9}n/3{34}C/Q{10}t.app/P{5}s/F{21}S.appex
+  + containing bundle identifier: com.teamviewer.teamviewerQS
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + document group name: group.com.teamviewer.teamviewerQS
+  + supported file types: none
+  + uses unique item identifiers across devices: 0
+  + applies changes atomically: 0
+  + push topics (development, opportunistic): (0)
+  + push topics (production): (0)
+  + push topics (production, opportunistic): (0)
+  + push topics (development): (0)
+
+-----------------------------------------------------
+domain: (default)
+-----------------------------------------------------
+ no process observed; grace period timer not running
+[33m  + (⏹  user-disabled)
+[39m  + uses FPFS: no
+  + root: <GroupContainers>/3A2379E6-CAEF-48F4-9A55-31E0C24F5A82/F{19}e
+  + persona: 90C86581-1AC2-4119-9B35-E4CDA16842DF
+  + indexer:
+      scheduler:      <l:com.apple.fileprovider.indexing 🛏  registration:2022-10-01 03:01:42 +0000 trigger:2022-10-01 03:01:42 +0000>
+      enabled:        no
+      indexing:       no
+      needs-indexing: no
+      needs-auth:     no
+      errors:         0
+      batch-indexed (since last startup): 0
+    not dumping extension: not running
+
+== action operation engine ==
+=================
+0 operations
+
+apps monitor [0;1;32mactive[0m
+-----------------------------------------------------
+[0;1;37m17[0m apps monitored:
+ - <FPAppMetadata:0x10325e700 co.bergen.Darkroom n:'Darkroom' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x102f7e850 com.adobe.Adobe-Reader n:'Acrobat' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x103248fa0 com.apple.mobilegarageband n:'GarageBand for iOS' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'>:
+ - <FPAppMetadata:0x10333d240 com.att.osd.myWireless n:'myAT&T' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x102fb18f0 com.comcsoft.PowerPDF n:'Power PDF' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x103358b60 com.comcsoft.iConverter n:'iConverter' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x10335a140 com.comcsoft.iZip n:'iZip' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x102facf70 com.comcsoft.powerphoto n:'Power Photo' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x102f78980 com.cuilingshi.fileextract n:'Unzip' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x10344da80 com.ghostmobile.The-Document-Converter n:'Doc Converter' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x10333bbc0 com.google.chrome.ios n:'Chrome' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x10334de80 com.microsoft.Office.Excel n:'Excel' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x1032a5610 com.readdle.ReaddleDocsIPad n:'Documents by Readdle' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x10344fd90 com.ringtonesapp n:'RingTune' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x103216220 com.teamviewer.teamviewerQS n:'QuickSupport' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x103367580 org.mozilla.ios.Firefox n:'Firefox' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+ - <FPAppMetadata:0x103344780 sb.lao.AppPrivacyInsights n:'Privacy Insights' p:'com.apple.CloudDocs.MobileDocumentsFileProvider'[default]>:
+
+== CloudStorage xattrs ==
+=========================
+
+== FileProvider xattrs ==
+=========================
+LegacyEnabledStateHasBeenMigrated
+    com.apple.TextEncoding: utf-8;134217984
+

@@ -1,0 +1,29 @@
+total=13, 5GHz(Active)=5, 5GHz(DFS)=0, 2GHz=8, ibss=1, hidden=0, passpoint=0, ph=0, airport=0
+
+
+ATT-WIFI-v3a7 - ssid=4154542d574946492d76336137, bssid=10:0c:6b:85:de:ce, security=wpa2-personal, channel=[2g11/20 (0xa)], cc=(null), phy=g (0x8), rssi=-71, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no, caps=0xC], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+ATT-WIFI-v3a7_5G - ssid=4154542d574946492d763361375f3547, bssid=10:0c:6b:85:de:cc, security=wpa2-personal, channel=[5g44/80 (0x410)], cc=(null), phy=a (0x2), rssi=-92, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no, caps=0xC], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+attwifi - ssid=61747477696669, bssid=00:0d:67:14:20:76, security=open, channel=[2g11/20 (0xa)], cc=US, phy=g (0x8), rssi=-84, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+ECONOLODGE - ssid=45434f4e4f4c4f444745, bssid=68:d7:9a:72:27:a3, security=open, channel=[5g149/40 (0x214)], cc=(null), phy=a (0x2), rssi=-89, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+ECONOLODGE - ssid=45434f4e4f4c4f444745, bssid=74:ac:b9:27:58:3f, security=open, channel=[2g1/20 (0xa)], cc=(null), phy=g (0x8), rssi=-91, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+ECONOLODGE - ssid=45434f4e4f4c4f444745, bssid=74:ac:b9:27:6a:58, security=open, channel=[2g6/20 (0xa)], cc=(null), phy=g (0x8), rssi=-83, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+ECONOLODGE - ssid=45434f4e4f4c4f444745, bssid=74:ac:b9:c7:2e:bc, security=open, channel=[2g11/20 (0xa)], cc=(null), phy=g (0x8), rssi=-48, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+ECONOLODGE - ssid=45434f4e4f4c4f444745, bssid=74:ac:b9:c8:2e:27, security=open, channel=[5g36/40 (0x214)], cc=(null), phy=a (0x2), rssi=-71, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+ECONOLODGE - ssid=45434f4e4f4c4f444745, bssid=74:ac:b9:c8:2e:bc, security=open, channel=[5g149/40 (0x214)], cc=(null), phy=a (0x2), rssi=-53, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+Hardee’s-Guest - ssid=486172646565e28099732d4775657374, bssid=30:b6:2d:56:1f:40, security=open, channel=[2g6/20 (0xa)], cc=US, phy=g (0x8), rssi=-93, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+Shashi - ssid=536861736869, bssid=60:38:e0:c5:5a:f1, security=wpa2-personal, channel=[2g11/40 (0xc)], cc=(null), phy=g (0x8), rssi=-65, rsn=[mcast=aes_ccm, bip=none, ucast={ aes_ccm }, auths={ psk }, mfp=no, caps=0x0], wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+ShashiAE - ssid=5368617368694145, bssid=fe:52:d5:24:a9:26, security=wep, channel=[2g11/20 (0xa)], cc=(null), phy=g (0x8), rssi=-89, rsn=(null), wpa=(null), wapi=no, wep=yes, ibss=yes, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
+WIVU-109FA9CA5C03 - ssid=574956552d313039464139434135433033, bssid=10:9f:a9:ca:5c:03, security=open, channel=[5g161/40 (0x14)], cc=US, phy=a (0x2), rssi=-82, rsn=(null), wpa=(null), wapi=no, wep=no, ibss=no, ph=no, swap=no, hs20=no, age=0ms, match=[(null)]
+
